@@ -41,7 +41,7 @@ data model pic
 
 ![table three](https://i.ibb.co/zfFcvnB/Coaches.png)
 
-![table four](ttps://i.ibb.co/ggwG51R/Coaching-Programs-Signup.png)
+![table four](https://i.ibb.co/ggwG51R/Coaching-Programs-Signup.png)
 
 ![table five](https://i.ibb.co/C2pc2g9/Coaching-Programs.png)
 
