@@ -35,7 +35,22 @@ data model pic
 
 ## Data Dictionary:
 
-data dictionary pics
+<img width="481" alt="Age_Group" src="https://github.com/zm2231/Group-1-MIST-4610-Project-1/assets/25645999/1c72e3db-ec03-4727-b943-14775c30cfa3">
+<img width="482" alt="Bookings" src="https://github.com/zm2231/Group-1-MIST-4610-Project-1/assets/25645999/e44f4b17-dc94-4ade-ac8f-90f643788a20">
+<img width="480" alt="Coaches" src="https://github.com/zm2231/Group-1-MIST-4610-Project-1/assets/25645999/6b550dfd-22c3-4375-b9aa-194e8dd9318b">
+<img width="480" alt="Coaching_Programs_Signup" src="https://github.com/zm2231/Group-1-MIST-4610-Project-1/assets/25645999/0830b2ea-5c04-46b6-a501-47e908fa4ab1">
+<img width="482" alt="Coaching_Programs" src="https://github.com/zm2231/Group-1-MIST-4610-Project-1/assets/25645999/9c97f9c4-4897-4ce5-ac83-e2bcbaf468aa">
+<img width="481" alt="Courts" src="https://github.com/zm2231/Group-1-MIST-4610-Project-1/assets/25645999/b041e84e-e9f3-4b18-9376-4995e109fc0b">
+<img width="479" alt="Equipment_Rentals" src="https://github.com/zm2231/Group-1-MIST-4610-Project-1/assets/25645999/9a6ed230-599f-42c7-9cec-288da7beb47a">
+<img width="487" alt="Equipment_Sales" src="https://github.com/zm2231/Group-1-MIST-4610-Project-1/assets/25645999/d0220df9-a320-46a5-87e6-8e55766127e2">
+<img width="485" alt="Maintenance" src="https://github.com/zm2231/Group-1-MIST-4610-Project-1/assets/25645999/41811696-9e1c-4b6c-8d5f-e9e76ba2deeb">
+<img width="479" alt="Members" src="https://github.com/zm2231/Group-1-MIST-4610-Project-1/assets/25645999/26df6c0e-a24f-4c58-a21c-35baecc80f99">
+<img width="482" alt="Orders" src="https://github.com/zm2231/Group-1-MIST-4610-Project-1/assets/25645999/f27525eb-f0e9-485e-a9ae-6c3c4a620aaa">
+<img width="484" alt="Payments" src="https://github.com/zm2231/Group-1-MIST-4610-Project-1/assets/25645999/7c6e8479-299d-4734-9fb0-33faeab31cbc">
+<img width="484" alt="Pro_Shop_Inventory" src="https://github.com/zm2231/Group-1-MIST-4610-Project-1/assets/25645999/21e36e81-bcd3-4462-8a5b-3c030cb3c14b">
+<img width="479" alt="Rental_Orders" src="https://github.com/zm2231/Group-1-MIST-4610-Project-1/assets/25645999/869c5b51-a9fc-4978-8064-ac1569bd13b7">
+<img width="482" alt="TournamentsAndEvents" src="https://github.com/zm2231/Group-1-MIST-4610-Project-1/assets/25645999/128eaed3-6c9f-43e7-b223-557a10a4dd5f">
+
 
 ## Queries:
 
@@ -107,5 +122,3 @@ Name of the database: ns_Sp24_21484_Group1
 
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: 
 CALL TP_Q1();
-
- 
